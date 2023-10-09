@@ -91,7 +91,7 @@ promtail:
   enabled: false  
 # under Neuvector section
 neuvector:
-  enabled: true
+  enabled: false
   values:
     k3s:
-      enabled: true
+      enabled: false
